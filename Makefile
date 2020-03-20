@@ -18,3 +18,6 @@ config:
 	  --net=direct
 depend:
 	$(MAKE) -C $(DIR) depend
+
+clean:
+	$(MAKE) -C in_memory clean
