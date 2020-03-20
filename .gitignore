@@ -1,0 +1,15 @@
+.merlin
+_build
+
+dune
+dune-project
+dune.build
+dune.config
+key_gen.ml
+kv_ro*
+.mirage.config
+main.*
+Makefile
+mirage-unikernel-kv_ro-xen.opam
+myocamlbuild.ml
+mirage-unikernel-kv_ro-macosx.opam
